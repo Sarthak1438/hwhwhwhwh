@@ -1,0 +1,37 @@
+.note{
+
+    font-size: 15px;
+    color: white;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: #D50000;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+body{
+    
+    
+        background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+      
+      
+    
+    
+}
+#h3{
+    background-color: #D50000;
+    color: white;
+}
+#span{
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+}
